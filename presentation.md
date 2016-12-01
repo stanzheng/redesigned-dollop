@@ -28,7 +28,7 @@ Then ...
 
 # This is your terminal
 
-![](picture1){.background}
+![](https://github.com/stanzheng/redesigned-dollop/blob/master/picture1.png?raw=true){.background}
 * Its a Terminal Emulator
 * *It has 80x24 lines*
 * It supports 256 colors 
@@ -49,13 +49,13 @@ echo -e "\e[38;05;155m 155: Recurse Center"
 # ANSI-encoded control sequences
 - Escape Character Code explain this  
 - echo -e "\e[38;05;155m 155: Recurse Center" 
-![](picture2.png){.background}
+![](https://github.com/stanzheng/redesigned-dollop/blob/master/picture2.png?raw=true){.background}
 
 ---
 
 # Echo All the colors 
 - for code in {0..255}; do echo -e "\e[38;05;${code}m $code: Recurse Center"; done 
-![](picture3.png){.background}
+![](https://github.com/stanzheng/redesigned-dollop/blob/master/picture3.png?raw=true){.background}
 
 ---
 
@@ -76,7 +76,7 @@ echo -e "\e[38;05;155m 155: Recurse Center"
 
 # Screenshot on StackOverFlow 
 - Print an image 
-![](picture4.png){.background}
+![](https://github.com/stanzheng/redesigned-dollop/blob/master/picture4.png?raw=true){.background}
 
 ---
 
@@ -101,7 +101,7 @@ There was code I Promised
 // Read In Pixels of Image  
 // Reverse find Closest Color
 // Echos the Color 
-
+```
 ---
 
 # imgcat Perl 
@@ -119,20 +119,13 @@ There was code I Promised
 ---
 
 # ANSI-encoded control sequences
-- Escape Character Code explain this  
-- echo -e "\e[38;05;155m 155: Recurse Center" 
-![](picture2.png){.background}
+
+![]("https://www.iterm2.com/images/inline_image_sparky_demo.png"){.background}
 
 ---
 
 
 # How does that Work? {.big}
-
----
-
-# Slides can have background images
-
-![]("https://www.iterm2.com/images/inline_image_sparky_demo.png"){.background}
 
 ---
 # Iterm2 ImageCat
@@ -172,10 +165,10 @@ function print_image() {
 ```bash
 printf "%s" "$3" | base64 $BASE64ARG | wc -c | awk '{printf "size=%d",$1}'
 ```
+
 ---
 
 # Thank You
 
 
----
 
