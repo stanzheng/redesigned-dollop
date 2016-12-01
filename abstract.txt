@@ -1,0 +1,65 @@
+🖥  🎨
+🖼🐈
+IMGCAT
+- Terminal colors |||
+- Recurse CLI |||
+    - instead of private page more hacker way to go to it
+- What I wanted to do |||
+    - Instead of Private Page ||| 
+    - Show Specific People Yourself ||| 
+- Explain something about terminals 
+    - Terminal Colors 256
+    - 80x24 
+    - Difference of terminals
+    - Color terminal support over the years
+        - Teleprinter TTYL  
+        - Computer_terminal
+        - Terminal Emulator
+            - -> terminal host system shared server
+        - XTerm https://en.wikipedia.org/wiki/Xterm
+            - The X Window System (X11, or shortened to simply X) is a windowing system for bitmap displays, common on UNIX-like computer operating systems.
+        - ANSI-encoded control sequences to tell your terminal to change colours. 
+    - GIF PRINT_FOR_LOOP
+```
+http://bitmote.com/index.php?post/2012/11/19/Using-ANSI-Color-Codes-to-Colorize-Your-Bash-Prompt-on-Linux
+ANSI Colors
+There are 16 ANSI Colors, which are actually 8 colors, each having "normal" and "bright" intensity variants. The colors are black, red, green, yellow, blue, magenta, cyan, and white. In certain circumstances bright intensity could be actually brighter, or, in the case of an xterm, it could be bold.
+
+
+Usage Syntax
+To set a font to the color and style desired, we use the syntax \033[#m where # can be a valid set of semicolon separated numbers. The \033[ is a control sequence initiator which begins an escape sequence. In our case the sequence is a set of "m" terminated select graphic rendition parameters for rendering the text as desired. 
+```
+- How does color happen in your terminal? 
+    - https://gist.github.com/jasonm23/2868981
+    - echo one color
+    - echo with escape character we can demonstrate this 
+    - Print all the colors
+        - 1 color IBM Computer https://en.wikipedia.org/wiki/File:Televideo925Terminal.jpg
+        - 16 color terminal 
+    - https://en.wikipedia.org/wiki/Terminal_emulator
+    - Configure stuff with tput to get color 
+    - Drop down to echo 
+    - http://guru.net.nz/blog/images/shit/shit2.png
+        - It’s even clever enough to inspect your terminal metrics meaning that if the terminal is larger you will see more pixels in the terminal:
+        - And if you need heaps more detail just make your terminal font smaller…
+    - Echo Color 
+        - Projects that handle color in node etc
+- Pre 
+    - Post
+- Experience of Imagecatting
+    - This image of where images are there
+    - Maybe able to tag through it
+    - or filter through it 
+- Iterm2 Released this feature in Beta
+    - https://raw.githubusercontent.com/gnachman/iTerm2/master/tests/imgcat
+- IMGCAT
+    - UX friendly to just post images
+    - Images in terminal https://www.iterm2.com/images/inline_image_sparky_demo.png
+- Really cool feature
+- Step through PERL Code 
+    - SHIT; SIIT; Emoji poo 💩
+    - Clever Shit
+    - By using 0x2584 - the Unicode character “Lower half block - with different foreground and background colours the terminal resolution can be doubled. I love that it does this!
+- OMG PRINT ALL THE WAY DOWn
+- How does it do it? 
+    - 
