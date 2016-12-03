@@ -1,4 +1,4 @@
-🖥  🎨
+🖥 🎨
 🖼🐈
 IMGCAT
 - Terminal colors |||
@@ -50,7 +50,7 @@ To set a font to the color and style desired, we use the syntax \033[#m where # 
     - This image of where images are there
     - Maybe able to tag through it
     - or filter through it 
-- Iterm2 Released this feature in Beta
+- Iterm2 Released this feature in 3
     - https://raw.githubusercontent.com/gnachman/iTerm2/master/tests/imgcat
 - IMGCAT
     - UX friendly to just post images
@@ -60,6 +60,21 @@ To set a font to the color and style desired, we use the syntax \033[#m where # 
     - SHIT; SIIT; Emoji poo 💩
     - Clever Shit
     - By using 0x2584 - the Unicode character “Lower half block - with different foreground and background colours the terminal resolution can be doubled. I love that it does this!
-- OMG PRINT ALL THE WAY DOWn
+    - HERES ALL THIS PERL CODE 
+        - Highlight a few areas.
+            - For loop
+            - The Color Mapping
+- Print it | lets go 
+- Issues Native 
+- OMG PRINT ALL THE WAY down
+    - ls * lah 
 - How does it do it? 
     - 
+- Crazy ideas
+    - for ls add colors for size 
+    - add syntax highlighting for bash 
+    - print out images or maybe even gifs. 
+
+Terminal Windows 
+    - Print echo all colors
+    - Print 
