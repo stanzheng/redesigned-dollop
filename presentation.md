@@ -48,7 +48,7 @@ echo -e "\e[38;05;155m 155: Recurse Center"
 
 # ANSI-encoded control sequences
 - Escape Character Code explain this  
-- echo -e "\e[38;05;155m 155: Recurse Center" 
+- `echo -e "\e[38;05;155m 155: Recurse Center"` 
 ![](https://github.com/stanzheng/redesigned-dollop/blob/master/picture2.png?raw=true){.background}
 
 ---
@@ -120,7 +120,7 @@ There was code I Promised
 
 # ANSI-encoded control sequences
 
-![]("https://www.iterm2.com/images/inline_image_sparky_demo.png"){.background}
+![](https://www.iterm2.com/images/inline_image_sparky_demo.png){.background}
 
 ---
 
